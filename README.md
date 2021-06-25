@@ -29,3 +29,22 @@ git remote add origin Url
 
 git push -u origin master
 
+git clone url ---- to download the repostry
+
+
+WQ ----Write and QUIT Linux command
+
+
+git log --oneline --- to display the logs in one line
+
+git log autoer " auther (name or email) "  --- to diaplay the logs of a perticular auther
+
+git log autoer " auther (name or email) " --oneline ---------- to diaplay the logs of a perticualr aurthe in one line
+git checkout master ---- to change the branch 
+
+history ---------- to diaplay all the commands used
+
+
+git log --since=yy-mm-dd  ---- diaplaying the logs since the date
+
+git log --until=yy-mm-dd  ---- diaplaying the logs until the date
