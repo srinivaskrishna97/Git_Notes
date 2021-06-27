@@ -1,0 +1,18 @@
+(such as Git, Mercurial, Bazaar or Darcs)
+
+modified, staged, and committed:
+
+not committed it to your database yet-->current version to go into your next commit snapshot.-->stored in your local database.
+
+Git looks for the .gitconfig file in the $HOME directory (C:\Users\$USER for most people).
+
+
+[path]/etc/gitconfig, although it’s relative to the MSys root, which is wherever you decide to install Git on your Windows system
+
+[path]/etc/gitconfig --> All users
+
+~/.gitconfig or ~/.config/git/config ---> Current user
+
+nfig file in the Git directory (that is, .git/config)  --> current repostry
+
+git config --list --show-origin --> to view all  the settings
